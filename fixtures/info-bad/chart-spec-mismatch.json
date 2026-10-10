@@ -1,0 +1,1 @@
+{"chart_type":"line","colors":{"background":"#ffffff","series":["#1f77b4","#ff7f0e"],"text":"#1a1a1a"},"data":[{"label":"北京","value":120},{"label":"上海"}],"data_shape":"categorical_nominal","fonts":{"label":28,"tick":24,"title":36},"height":1000,"source":"数据来源：示例","title":"折线误用示例","width":750,"x_label":"城市","y_label":"","y_starts_at_zero":true}

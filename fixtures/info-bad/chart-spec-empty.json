@@ -1,0 +1,1 @@
+{"chart_type":"bar","colors":{"background":"#ffffff","series":["#1f77b4"],"text":"#1a1a1a"},"data":[],"data_shape":"categorical_nominal","fonts":{"label":28,"tick":24,"title":36},"height":1000,"source":"数据来源：示例","title":"空数据示例","width":750,"x_label":"城市","y_label":"销量（万件）","y_starts_at_zero":true}

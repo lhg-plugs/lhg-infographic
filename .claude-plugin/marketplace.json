@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"信息图表专家：数据/文章→图表选型→Canvas 确定性绘制→16 条映射与可读性审计，手机端可读","name":"lhg-infographic","source":"./"}]}
